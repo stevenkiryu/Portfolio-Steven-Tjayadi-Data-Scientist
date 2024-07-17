@@ -2,7 +2,7 @@
 
 # Portfolio-Steven-Tjayadi
 
-# Machine Learning Engineer Portfolio 
+# Data Scientist Portfolio 
 
 Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of developing Data Scientist portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering/Machine Learning courses or self development projects, each of which covers essential skills and techniques for Data Scientist.
 
